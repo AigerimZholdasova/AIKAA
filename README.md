@@ -1,10 +1,10 @@
 # AIKAA
 7258
-import sys
+import s
 sys.stdout.write("Call of duty ")
 sys.stdout.write("and Black Ops")
-# output: Call of duty and Black Ops
+# output: Call of duty and Black O
 #another way but only for python 3
-print("Python ", end="")
+pri("Python ", end="")
 print("Programming") 
 # output: Python Programming
