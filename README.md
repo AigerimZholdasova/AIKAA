@@ -7,4 +7,4 @@ sys.stdout.write("and Black Ops")
 #another way but only for python 3
 print("Python ", end="")
 print("Programming") 
-# output: Python Programmin
+# output: Python Programming
